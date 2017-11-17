@@ -3,10 +3,10 @@ html{
   font-size: 18px;
   background-color: white;
   font-family: Helvetica, sans-serif;
-  line-height: 1.15;
-  text-size-adjust: 100%;
+  line-height: 1.15em;
+  font-size-adjust: 100%;
 }
-.company-logo{
+company-logo{
   background-color: black;
   color: white;
 
