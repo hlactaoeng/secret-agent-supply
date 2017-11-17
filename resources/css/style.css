@@ -1,13 +1,21 @@
 /* Main CSS */
 html{
   font-size: 18px;
-  background-color: white;
+  /*background-color: white; */
   font-family: Helvetica, sans-serif;
   line-height: 1.15em;
   font-size-adjust: 100%;
 }
-company-logo{
+.company-logo{
   background-color: black;
   color: white;
+  text-align: left;
 
+}
+.main-banner{
+  background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25em;
 }
