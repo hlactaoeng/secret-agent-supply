@@ -1,0 +1,7 @@
+/* Main CSS */
+html, body, h1, h2,h3,h4, p, div, ul, li{
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-size: 100%;
+}
