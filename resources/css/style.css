@@ -10,6 +10,7 @@ html{
   background-color: black;
   color: white;
   text-align: left;
+  margin-left: 20px;
 
 }
 .main-banner{
@@ -18,4 +19,17 @@ html{
   background-position: center;
   background-size: cover;
   height: 25em;
+}
+
+.nav{
+  background-color: firebrick;
+  color: white;
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav li{
+  display: inline;
+  padding-left: 21px;
+  font-size: 15px;
 }
